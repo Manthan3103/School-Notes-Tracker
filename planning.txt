@@ -1,0 +1,21 @@
+# School Notes Tracker - Project Plan
+
+Project Overview
+
+A simple application to organize school notes by subject.
+Features
+1. Subject Management - Add and view subjects
+2. Notes Management - Create and organize notes
+3. Search Function - Quickly find notes
+4. Progress Tracking - Monitor completed notes
+
+## Technology
+- Python
+- Single file implementation
+- No external dependencies
+
+File Structure 
+|- notes_tracker.py (main application) 
+|- README.txt 
+|- statement.txt 
+|- planning.txt

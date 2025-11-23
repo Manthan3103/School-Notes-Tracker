@@ -1,0 +1,22 @@
+# School Notes Tracker - Problem Statement
+Tunnel Problem
+
+Students struggle to organize their study notes because:
+1. Notes are scattered across different notebooks
+2. Hard to find specific topics quickly
+No system to track completed topics
+• Difficult to organize by subject and priority
+
+## Solution
+A digital tracker of notes that:
+1. Organizes notes by subject
+2. Allows easy searching and filtering.
+3. tracks completion status
+4. Supports priority levels for important topics
+
+Target Users
+1. School students
+2. College students
+3. Anyone who takes study notes
+Success Criteria
+- Users can add subjects and notes easily - Quick search functionality works correctly - The interface is simple and intuitive. - Helps students put themselves together
